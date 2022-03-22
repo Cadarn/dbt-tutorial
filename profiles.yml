@@ -7,7 +7,7 @@ jaffle_shop:
       dataset: dbt_adam
       fixed_retries: 1
       keyfile: /Users/abh/scratch/dbt-tutorial/dbt-user-creds.json
-      location: EU
+      location: US
       method: service-account
       priority: interactive
       project: quickstart-1590448450641
